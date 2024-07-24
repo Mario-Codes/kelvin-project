@@ -1,5 +1,5 @@
 // this is the temperature of Kelvin
-let kelvin = 1000;
+let kelvin = 293;
 
 // kelvin subtracted by 273 to equal celsius.
 var celsius = kelvin - 273;
